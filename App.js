@@ -5,7 +5,9 @@ import EventList from './EventList';
 
 export default function App() {
   return (
-    <EventList /> 
+    <View style={styles.container}>
+<EventList />
+    </View>      
   );
 }
 
@@ -13,7 +15,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#D4286A',
+    backgroundColor: '#2062F0',
     alignItems: 'center'
    
   },
