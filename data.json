@@ -3,64 +3,52 @@
         {
             "title": "Понеделник",
             "subjects" : [
+
                {
                   "schoolclass": "1.",
                   "schedule": "7:45 - 8:25",
                   "title": "Биология",
                   "teacher": "С.Минкова"
-
                },
                {
                   "schoolclass": "2.",
                   "schedule": "8:35 - 9:15",
                   "title": "ИТ",
                   "teacher": "С.Янкова"
-
                },
                {
                   "schoolclass": "3.",
                   "schedule": "9:25 - 10:05",
                   "title": "ФВС",
                   "teacher": "Н.Драгиев"
-
                },
                {
                   "schoolclass": "4.",
                   "schedule": "10:20 - 11:00",
                   "title": "Английски език",
                   "teacher": "Н.Петкова"
-
                },
                {
                   "schoolclass": "5.",
                   "schedule": "11:15 - 11:55",
                   "title": "Математика",
                   "teacher": "М.Стоянова"
-
                },
-
                {
                   "schoolclass": "6.",
                   "schedule": "12:00 - 12:40",
                   "title": "Графични продукти",
                   "teacher": "С.Джигарова"
-
                },
-
                {
                   "schoolclass": "7.",
                   "schedule": "12:45 - 13:25",
                   "title": "География",
                   "teacher": "Г.Филисян"
-
                }
-
-            ], 
-
-
-   
-        },
-       "title": "Вторник",
+            ],
+         
+            "title": "Вторник",
             "subjects" : [
                {
                   "schoolclass": "1.",
@@ -111,10 +99,10 @@
                   "schedule": "12:45 - 13:25",
                   "title": "БЕЛ",
                   "teacher": "Т.Георгиева"
-
                }
-        {
-         "title": "Сряда",
+            ],
+
+            "title": "Сряда",
             "subjects" : [
                {
                   "schoolclass": "1.",
@@ -165,8 +153,9 @@
                   "schedule": "12:45 - 13:25",
                   "title": "ЧКР",
                   "teacher": "Т.Георгиева"
-        },
-        {
+               }
+            ],
+
             "title": "Четвъртък",
             "subjects" : [
                {
@@ -212,12 +201,10 @@
                   "teacher": "Д.Радева"
 
                },
+            ],
 
-             
-     
-        },
-          
-            "title": "Четвъртък",
+
+            "title": "Петък",
             "subjects" : [
                {
                   "schoolclass": "1.",
@@ -261,8 +248,20 @@
                   "title": "Немски език",
                   "teacher": "Б. Бедросова"
 
-               },
+               }
+            ]
 
-       }
-   ]
-}
+   
+
+
+       
+        
+
+
+
+        
+
+        
+
+   
+   
