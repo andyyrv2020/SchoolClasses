@@ -4,35 +4,35 @@
             "title": "Понеделник",
             "subjects" : [
                {
-                  "class": "1.",
+                  "schoolclass": "1.",
                   "schedule": "7:45 - 8:25",
                   "title": "Биология",
                   "teacher": "С.Минкова"
 
                },
                {
-                  "class": "2.",
+                  "schoolclass": "2.",
                   "schedule": "8:35 - 9:15",
                   "title": "ИТ",
                   "teacher": "С.Янкова"
 
                },
                {
-                  "class": "3.",
+                  "schoolclass": "3.",
                   "schedule": "9:25 - 10:05",
                   "title": "ФВС",
                   "teacher": "Н.Драгиев"
 
                },
                {
-                  "class": "4.",
+                  "schoolclass": "4.",
                   "schedule": "10:20 - 11:00",
                   "title": "Английски език",
                   "teacher": "Н.Петкова"
 
                },
                {
-                  "class": "5.",
+                  "schoolclass": "5.",
                   "schedule": "11:15 - 11:55",
                   "title": "Математика",
                   "teacher": "М.Стоянова"
@@ -40,7 +40,7 @@
                },
 
                {
-                  "class": "6.",
+                  "schoolclass": "6.",
                   "schedule": "12:00 - 12:40",
                   "title": "Графични продукти",
                   "teacher": "С.Джигарова"
@@ -48,110 +48,221 @@
                },
 
                {
-                  "class": "7.",
+                  "schoolclass": "7.",
                   "schedule": "12:45 - 13:25",
                   "title": "География",
                   "teacher": "Г.Филисян"
 
                }
 
-            ],
+            ], 
 
 
    
         },
-        {
-           "title": "Вторник",
-           "subject1": "Програмиране - С. Арсенова",
-           "subject2": "Програмиране - С. Арсенова",
-           "subject3": "Програмиране - С. Арсенова",
-           "subject4": "Химия - Т. Георгиева",
-           "subject5": "Математика - М. Стоянова",
-           "subject6": "Английски език- Н. Петкова",
-           "subject7": "БЕЛ - Т. Георгиева",
-           "class1": "1. ",
-           "class2": "2. ",
-           "class3": "3. ",
-           "class4": "4. ",
-           "class5": "5. ",
-           "class6": "6. ",
-           "class7": "7. ",
-           "schedule1": "7:45 - 8:25",
-           "schedule2": "8:35 - 9:15",
-           "schedule3": "9:25 - 10:05",
-           "schedule4": "10:20 - 11:00",
-           "schedule5": "11:15 - 11:55",
-           "schedule6": "12:00 - 12:40",
-           "schedule7": "12:45 - 13:25"
+       "title": "Вторник",
+            "subjects" : [
+               {
+                  "schoolclass": "1.",
+                  "schedule": "7:45 - 8:25",
+                  "title": "Програмиране",
+                  "teacher": "С.Aрсенова"
 
-      
-        },
-        {
-           "title": "Сряда",
-           "subject1": "Мобилни приложения - П. Петров",
-           "subject2": "Мобилни приложения - П. Петров",
-           "subject3": "БЕЛ - Т. Георгиева",
-           "subject4": "БЕЛ - Т. Георгиева",
-           "subject5": "Математика - М. Стоянова",
-           "subject6": "ФВС - Н. Драгиев",
-           "subject7": "ЧКР - Т. Георгиева",
-           "class1": "1. ",
-           "class2": "2. ",
-           "class3": "3. ",
-           "class4": "4. ",
-           "class5": "5. ",
-           "class6": "6. ",
-           "class7": "7. ",
-           "schedule1": "7:45 - 8:25",
-           "schedule2": "8:35 - 9:15",
-           "schedule3": "9:25 - 10:05",
-           "schedule4": "10:20 - 11:00",
-           "schedule5": "11:15 - 11:55",
-           "schedule6": "12:00 - 12:40",
-           "schedule7": "12:45 - 13:25"
-        },
-        {
-           "title": "Четвъртък",
-           "subject1": "Мобилни приложения - Г. Митева",
-           "subject2": "Химия - Т. Георгиева",
-           "subject3": "История - К. Шейтанова",
-           "subject4": "Английски език - Н. Петкова",
-           "subject5": "Англисйки език - Н. Петкова",
-           "subject6": "Философия - Д. Радева",
-           "class1": "1. ",
-           "class2": "2. ",
-           "class3": "3. ",
-           "class4": "4. ",
-           "class5": "5. ",
-           "class6": "6. ",
-           "schedule1": "7:45 - 8:25",
-           "schedule2": "8:35 - 9:15",
-           "schedule3": "9:25 - 10:05",
-           "schedule4": "10:20 - 11:00",
-           "schedule5": "11:15 - 11:55",
-           "schedule6": "12:00 - 12:40"
-        },
-        {
+               },
+               {
+                  "schoolclass": "2.",
+                  "schedule": "8:35 - 9:15",
+                  "title": "Програмиране",
+                  "teacher": "С.Aрсенова"
 
-           "title": "Петък",
-           "subject1": "История - К. Шейтанова",
-           "subject2": "Немски език - Б. Бедросова",
-           "subject3": "Англисйки език - Н. Петкова",
-           "subject4": "Английски език - Н. Петкова",
-           "subject5": "Физика - И. Стоянова",
-           "subject6": "Немски език - Б. Бедросова",
-           "class1": "1. ",
-           "class2": "2. ",
-           "class3": "3. ",
-           "class4": "4. ",
-           "class5": "5. ",
-           "class6": "6. ",
-           "schedule1": "7:45 - 8:25",
-           "schedule2": "8:35 - 9:15",
-           "schedule3": "9:25 - 10:05",
-           "schedule4": "10:20 - 11:00",
-           "schedule5": "11:15 - 11:55",
-           "schedule6": "12:00 - 12:40"
+               },
+               {
+                  "schoolclass": "3.",
+                  "schedule": "9:25 - 10:05",
+                  "title": "Програмиране",
+                  "teacher": "С.Aрсенова"
+
+               },
+               {
+                  "schoolclass": "4.",
+                  "schedule": "10:20 - 11:00",
+                  "title": "Химия",
+                  "teacher": "Т.Георгиева"
+
+               },
+               {
+                  "schoolclass": "5.",
+                  "schedule": "11:15 - 11:55",
+                  "title": "Математика",
+                  "teacher": "М.Стоянова"
+
+               },
+
+               {
+                  "schoolclass": "6.",
+                  "schedule": "12:00 - 12:40",
+                  "title": "Английски език",
+                  "teacher": "Н.Петкова"
+
+               },
+
+               {
+                  "schoolclass": "7.",
+                  "schedule": "12:45 - 13:25",
+                  "title": "БЕЛ",
+                  "teacher": "Т.Георгиева"
+
+               }
+        {
+         "title": "Сряда",
+            "subjects" : [
+               {
+                  "schoolclass": "1.",
+                  "schedule": "7:45 - 8:25",
+                  "title": "Мобилни приложения",
+                  "teacher": "П.Петров"
+
+               },
+               {
+                  "schoolclass": "2.",
+                  "schedule": "8:35 - 9:15",
+                  "title": "Мобилни приложения",
+                  "teacher": "П.Петров"
+
+               },
+               {
+                  "schoolclass": "3.",
+                  "schedule": "9:25 - 10:05",
+                  "title": "БЕЛ",
+                  "teacher": "Т.Георгиева"
+
+               },
+               {
+                  "schoolclass": "4.",
+                  "schedule": "10:20 - 11:00",
+                  "title": "БЕЛ",
+                  "teacher": "Т.Георгиева"
+
+               },
+               {
+                  "schoolclass": "5.",
+                  "schedule": "11:15 - 11:55",
+                  "title": "Математика",
+                  "teacher": "М.Стоянова"
+
+               },
+
+               {
+                  "schoolclass": "6.",
+                  "schedule": "12:00 - 12:40",
+                  "title": "ФВС",
+                  "teacher": "Н.Драгиев"
+
+               },
+
+               {
+                  "schoolclass": "7.",
+                  "schedule": "12:45 - 13:25",
+                  "title": "ЧКР",
+                  "teacher": "Т.Георгиева"
+        },
+        {
+            "title": "Четвъртък",
+            "subjects" : [
+               {
+                  "schoolclass": "1.",
+                  "schedule": "7:45 - 8:25",
+                  "title": "Мобилни приложения",
+                  "teacher": "Г.Митева"
+
+               },
+               {
+                  "schoolclass": "2.",
+                  "schedule": "8:35 - 9:15",
+                  "title": "Мобилни приложения",
+                  "teacher": "Т.Георгиева"
+
+               },
+               {
+                  "schoolclass": "3.",
+                  "schedule": "9:25 - 10:05",
+                  "title": "История",
+                  "teacher": "К.Шейтанова"
+
+               },
+               {
+                  "schoolclass": "4.",
+                  "schedule": "10:20 - 11:00",
+                  "title": "Английски език ",
+                  "teacher": "Н.Петкова"
+
+               },
+               {
+                  "schoolclass": "5.",
+                  "schedule": "11:15 - 11:55",
+                  "title": "Английски език ",
+                  "teacher": "Н.Петкова"
+
+               },
+
+               {
+                  "schoolclass": "6.",
+                  "schedule": "12:00 - 12:40",
+                  "title": "Философия",
+                  "teacher": "Д.Радева"
+
+               },
+
+             
+     
+        },
+          
+            "title": "Четвъртък",
+            "subjects" : [
+               {
+                  "schoolclass": "1.",
+                  "schedule": "7:45 - 8:25",
+                  "title": "История",
+                  "teacher": "К.Шейтанова"
+
+               },
+               {
+                  "schoolclass": "2.",
+                  "schedule": "8:35 - 9:15",
+                  "title": "Немски език",
+                  "teacher": "Т.Георгиева"
+
+               },
+               {
+                  "schoolclass": "3.",
+                  "schedule": "9:25 - 10:05",
+                  "title": "Англисйки език ",
+                  "teacher": "Н.Петкова"
+
+               },
+               {
+                  "schoolclass": "4.",
+                  "schedule": "10:20 - 11:00",
+                  "title": "Английски език ",
+                  "teacher": "Н.Петкова"
+
+               },
+               {
+                  "schoolclass": "5.",
+                  "schedule": "11:15 - 11:55",
+                  "title": "Физика",
+                  "teacher": "И.Стоянова"
+
+               },
+
+               {
+                  "schoolclass": "6.",
+                  "schedule": "12:00 - 12:40",
+                  "title": "Немски език",
+                  "teacher": "Б. Бедросова"
+
+               },
+
        }
    ]
 }
